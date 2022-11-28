@@ -1,4 +1,4 @@
-### Hello :frog: im not done yet
+### Hello :frog: 
 
 <!--
 **tiffgong/tiffgong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
